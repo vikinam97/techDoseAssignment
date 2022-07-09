@@ -20,7 +20,10 @@ Math Algorithms
 	> Find all prime factors of a number N
 	> Calculate NCR value for given N and R
 	> Unique Binary Search Trees
+```
 
+```
+Assignment 3
 Array
 	> Kth Largest Element in an Array
 	> Sort Colors
@@ -48,7 +51,9 @@ Array
 	> Capacity To Ship Packages Within D Days
 	> Sum of Subarray Minimums
 	> Count Unique Characters of All Substrings of a Given String
-
+```
+```
+Assignment 4
 Sorting
 	> Selection sort
 	> Bubble Sort
@@ -71,6 +76,9 @@ Sliding Window
 		> Sliding Window Maximum
 		> Find All Anagrams in a String
 
+```
+```
+Assignment 5
 Stack & Queues
 	> Implement Stack using Queues
 	> Implement Queue using Stacks
@@ -90,7 +98,9 @@ Hashmap
 	> Find All Anagrams in a String
 	> Sort Characters By Frequency
 	> Longest Substring Without Repeating Characters
-
+```
+```
+Assignment 6
 Heap
 	> Merge k Sorted Lists
 	> Sliding Window Maximum
