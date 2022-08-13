@@ -130,4 +130,88 @@ Tree
 	> Unique Binary Search Trees
 	> Cousins in Binary Tree
 	> Construct Binary Search Tree from Preorder Traversal
+
+```
+```
+Assignment 7
+Linked List
+	> Reverse a linkedList (Iterative and recursive)
+	> Reverse LinkedList in blocks of size K
+	> Loop detection in LinkedList
+	> Find intersection node or starting node of a loop in linkedList
+	> Remove Duplicates in LinkedList
+	> Add 2 linkedLists represented as numbers
+	> Sort a LinkedList (merge sort)
+	> Check if a LinkedList is palindrome
+	> Flatten a linkedList
+	> Multiply 2 nos represented as LinkedList
+	> Josephus circle using circular linkedList
+
+Trie
+	> Implement Trie (Prefix Tree)
+	> Implement Trie II (Prefix Tree)
+	> Design Add and Search Words Data Structure
+	> Maximum XOR of 2 numbers in an array
+	> Word Break
+	> Word Break II
+
+Back Tracking
+	> N-Queens
+	> N-Queens II
+	> Generate Parentheses
+	> Letter Combinations of a Phone Number
+	> Word Search
+	> Word Search II
+	> Word Break II
+	> Remove Invalid Parentheses
+	> Sudoku Solver
+	> Permutations
+	> Combination Sum
+```
+```
+Assignment 8
+Greedy
+	> Implement Huffman algo (Use Editorial and our class lecture)
+	> Meeting Rooms II
+	> Employee Free Time
+	> Task Scheduler
+	> Reorganize String
+	> Minimum Number of Taps to Open to Water a Garden
+	> Gas Station
+	> Minimum Deletion Cost to Avoid Repeating Letters
+	> Best Time to Buy and Sell Stock II
+	> Jump Game II
+	> Maximum Number of Events That Can Be Attended
+	> Partition Labels
+	> Two City Scheduling
+	> Jump Game
+
+```
+```
+Assignment 9
+Segment Tree
+	> Range sum query
+
+Graph
+	> Detonate the Maximum Bombs
+	> Minimum Degree of a Connected Trio in a Graph
+	> Path With Minimum Effort
+	> Min Cost to Connect All Points
+	> Remove Max Number of Edges to Keep Graph Fully Traversable
+	> Path with Maximum Probability
+	> Course Schedule IV
+	> Find the City With the Smallest Number of Neighbors at a Threshold Distance
+	> Critical Connections in a Network
+	> Regions Cut By Slashes
+	> Possible Bipartition
+	> All Paths From Source to Target
+	> Cheapest Flights Within K Stops
+	> Is Graph Bipartite?
+	> Network Delay Time
+	> Number of Provinces
+	> Evaluate Division
+	> Course Schedule II
+	> Course Schedule
+	> Clone Graph
+	> Number of Connected Components in an Undirected Graph
 ```
