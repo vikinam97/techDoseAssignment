@@ -215,3 +215,36 @@ Graph
 	> Clone Graph
 	> Number of Connected Components in an Undirected Graph
 ```
+```
+Assignment 10
+Dynamic Programming
+	> Egg Drop With 2 Eggs and N Floors
+	> Super Egg Drop
+	> Burst Balloons
+	> Longest Common Subsequence
+	> Shortest Common Supersequence
+	> Longest Palindromic Subsequence
+	> Maximum Length of Repeated Subarray
+	> Delete Operation for Two Strings
+	> Partition Equal Subset Sum
+	> Ones and Zeroes
+	> Target Sum
+	> Coin Change
+	> Coin Change 2
+	> Longest Palindromic Substring
+	> Palindromic Substrings
+	> Longest Increasing Subsequence
+	> Number of Longest Increasing Subsequence
+	> Edit Distance
+	> One Edit Distance
+	> Minimum Path Sum
+	> Unique Paths
+	> Unique Paths II
+	> Largest Rectangle in Histogram
+	> Maximal Square
+	> Maximal Rectangle
+	> Dungeon Game
+	> Partition to K Equal Sum Subsets
+	> Matchsticks to Square
+	> Number of Ways to Wear Different Hats to Each Other
+```
